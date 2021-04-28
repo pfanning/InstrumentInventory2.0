@@ -11,6 +11,7 @@ namespace InstrumentInventory2._0
     class Program
     {
         // Magic file name so I can keep code clean
+        public static string DefaultInventory = "DefaultInventory.txt";
         public static string FileName = "Instrument.txt";
 
         static void Main(string[] args)
@@ -74,7 +75,12 @@ namespace InstrumentInventory2._0
         {
             try
             {
-                string jsonString = File.ReadAllText(FileName);
+                string fileToLoad = DefaultInventory;
+
+                if (File.Exists(FileName)) { 
+                    fileToLoad = FileName; 
+                }
+                string jsonString = File.ReadAllText(fileToLoad);
                 var instruments = JsonConvert.DeserializeObject<List<Instrument>>(jsonString);
                 return instruments;
             }
