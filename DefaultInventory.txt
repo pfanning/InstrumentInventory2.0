@@ -1,0 +1,72 @@
+[
+    {
+        "Brand": "Kentucky",
+        "Model": "KM-630",
+        "Type": "3",
+        "Value": "$800",
+        "Other": "Upgrade nut, bridge, and tailpiece.  Some body damage, including finish crack around neck joint."
+    },
+    {
+        "Brand": "Partscaster",
+        "Model": "Crapcaster",
+        "Type": "Electric Guitar",
+        "Value": "*Priceless*",
+        "Other": "Parts kit body and neck, Grover tuners, ZeroFret nut, custom logo, Lawler 52 Pickups, Wilkinson brass saddles, 920 Custom 4 way Tele Switch, custom relic job."
+    },
+    {
+        "Brand": "Silver Creek",
+        "Model": "SC-T170",
+        "Type": "Acoustic Guitar",
+        "Value": "$500",
+        "Other": "Aftermarket undersaddle/sensor mic pickup added, professionally installed."
+    },
+    {
+        "Brand": "Epiphone ",
+        "Model": "Riviera",
+        "Type": "Electric Guitar",
+        "Value": "$600",
+        "Other": "Stock instrument"
+    },
+    {
+        "Brand": "Squier",
+        "Model": "Jazz Bass",
+        "Type": "Bass Guitar",
+        "Value": "$150",
+        "Other": "Filed down sprouted fret edges."
+    },
+    {
+        "Brand": "Alvarez",
+        "Model": "5046",
+        "Type": "Acoustic Guitar",
+        "Value": "Priceless",
+        "Other": "Has magnetic pickup.  Not sure if it's stock or not."
+    },
+    {
+        "Brand": "Eastman",
+        "Model": "MD315",
+        "Type": "Mandolin",
+        "Value": "$800",
+        "Other": "Stock Instrument"
+    },
+    {
+        "Brand": "Vintage",
+        "Model": "Thomas Blug VM Something",
+        "Type": "Electric Guitar",
+        "Value": "$600",
+        "Other": "Stock Instrument"
+    },
+    {
+        "Brand": "Fender",
+        "Model": "Banjo",
+        "Type": "5 String Banjo",
+        "Value": "$250",
+        "Other": "Contact mic/pickup on back of head."
+    },
+    {
+        "Brand": "Eastman",
+        "Model": "MD305",
+        "Type": "Octave Mandolin",
+        "Value": "$800",
+        "Other": "Octave Mandolin"
+    }
+]
