@@ -113,7 +113,8 @@ namespace InstrumentInventory2._0
             instrument.Brand = Console.ReadLine();
             Console.WriteLine("Enter Model: ");
             instrument.Model = Console.ReadLine();
-
+            Console.WriteLine("Enter Type: ");
+            instrument.Type = Console.ReadLine();
             Console.WriteLine("Enter Value: ");
             instrument.Value = Console.ReadLine();
             Console.WriteLine("Enter Other: ");
