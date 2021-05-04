@@ -1,4 +1,6 @@
 # InstrumentInventory2.0
+
+Patrick Fanning-Code Louisville BU Spring 2021
 Musical Instrument Inventory Program
 
 This program is designed to keep track of my current musical instrument inventory, the current market value, and any other relevant information.  
